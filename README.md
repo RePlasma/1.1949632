@@ -4,7 +4,7 @@ Author of paper: Eric Lutz
 
 Link to paper: https://pubs.aip.org/aapt/ajp/article/73/10/968/1042378/Analytical-results-for-a-Fokker-Planck-equation-in
 
-Notebook by: Óscar Amaro (2023)
+Notebook by: [Óscar Amaro](https://github.com/OsAmaro) (2023)
 
 Abstract: _We present analytical results for the lowest order cumulants of a stochastic process described by a Fokker–Planck equation with nonlinear drift, which appears in the description of laser cooling of atoms. We show that, in the limit of small fluctuations, the mean, the variance, and the covariance of the process can be expressed in compact form with the help of the Lambert function. As an application, we discuss the interplay of noise and nonlinearity far from equilibrium._
 
